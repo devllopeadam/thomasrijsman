@@ -1,0 +1,70 @@
+Title: Creatie
+
+----
+
+Subtitle: Interviews
+
+----
+
+Text: Creativiteit verandert de wereld, en dus kunnen we niet zonder. Maar creativiteit zelf verandert ook continu. Daarom is Creatie het tijdschrift voor iedereen die te maken heeft met de ontwikkeling van creativiteit; waar het heen gaat, wat er nu gebeurt, wie de belangrijkste gamechangers zijn en wat jij daarvan kan leren. Want je moet weten wat er vandaag gebeurt om morgen vorm te kunnen geven. Rijsman schrijft sinds 2006 voor Creatie.
+
+----
+
+Thumb: 
+
+----
+
+Main-image: 
+
+----
+
+Category: author
+
+----
+
+Credits: 
+
+- 
+  name: Journalist
+  function: Functie
+- 
+  name: Creatie
+  function: Opdrachtgever
+- 
+  name: Adformatie Groep
+  function: Uitgever
+- 
+  name: www.creatie.nl
+  function: Website
+- 
+  name: '2006 - 2016'
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture_1: 07_08-2006-1.png
+  picture_2: 09-2006.png
+  _fieldset: pictures
+- 
+  picture_1: 01-2007-1.png
+  picture_2: 04-2006-1.png
+  _fieldset: pictures
+- 
+  picture_1: 04-2007-1.png
+  picture_2: 06-2007-1.png
+  _fieldset: pictures
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

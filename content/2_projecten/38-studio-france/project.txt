@@ -1,0 +1,66 @@
+Title: Studio France
+
+----
+
+Subtitle: Redacteur
+
+----
+
+Text: Nationale voetbalhuiskamer tijdens het EK Voetbal in Frankrijk. Vaste bewoners Henry Schut (presentator), Hugo Borst (side-kick) en huishond Messi ontvangen elke dag voetbalkenners en andere verrassende gasten uit de wereld van de sport en entertainment.
+
+----
+
+Size: small
+
+----
+
+Thumb: 
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Redacteur
+  function: Functie
+- 
+  name: NOS Studio Sport
+  function: Opdrachtgever
+- 
+  name: NPO 1
+  function: Zender
+- 
+  name: Zomer, 2016
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: img_5055.png
+  _fieldset: picture
+- 
+  picture_1: img_5272.png
+  picture_2: img_5407.png
+  _fieldset: pictures
+- 
+  picture_1: img_5367.png
+  picture_2: img_5368.png
+  _fieldset: pictures

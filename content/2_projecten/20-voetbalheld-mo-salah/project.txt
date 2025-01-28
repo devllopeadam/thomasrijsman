@@ -1,0 +1,67 @@
+Title: Voetbalheld Mo Salah
+
+----
+
+Subtitle: Aan tafel bij De Nieuwe Maan
+
+----
+
+Text: De Egyptische spits Mo Salah is inmiddels zo geliefd bij Liverpool-fans dat ze met veel vreugde zingen: 'If he scores another few then I'll be Muslim too.' Draagt Salah bij aan een positief wereldbeeld van de islam? Sportjournalisten Thomas Rijsman en Nordin Ghouddani vinden van wel, vertellen ze in het tv-programma De Nieuwe Maan.
+
+----
+
+Size: small
+
+----
+
+Thumb: img_5324.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: https://vimeo.com/267370368
+  _fieldset: video
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Gast talkshow
+  function: Functie
+- 
+  name: NPO2
+  function: Zender
+- 
+  name: De Nieuwe Maan
+  function: Programma
+- 
+  name: 28 april, 2018
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture_1: img_5323.png
+  picture_2: img_5325.png
+  _fieldset: pictures
+- 
+  picture_1: img_5324.png
+  picture_2: img_5335.png
+  _fieldset: pictures

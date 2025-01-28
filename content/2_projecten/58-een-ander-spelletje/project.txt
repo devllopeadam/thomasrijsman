@@ -1,0 +1,64 @@
+Title: Een ander spelletje
+
+----
+
+Subtitle: Marc de Hond openhartig over zijn nieuwe leven in een rolstoel
+
+----
+
+Text: Presentator Marc de Hond raakt door een medische blunder verlamd voor het leven. Tijdens een ontspannen partijtje basketbal in het revalidatiecentrum in Amsterdam praat De Hond met zijn oude voetbalvrienden openhartig over zijn nieuwe leven in een rolstoel.
+
+----
+
+Size: small
+
+----
+
+Thumb: schermafbeelding-2016-07-07-om-13.50.27.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: Thomas Rijsman
+  function: Regisseur
+- 
+  name: 'Thomas Rijsman & Nils Adriaans'
+  function: Interview
+- 
+  name: Tom Poederbach
+  function: 'Camera & Edit'
+- 
+  name: One Saturday Afternoon
+  function: Producent
+- 
+  name: Parool TV
+  function: Opdrachtgever
+- 
+  name: "2009"
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: https://vimeo.com/3794811
+  _fieldset: video

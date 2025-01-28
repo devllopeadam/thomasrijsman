@@ -1,0 +1,58 @@
+Title: Waarom de Akka de Akka heet
+
+----
+
+Subtitle: Lang verhaal in Hard Gras
+
+----
+
+Text: De Akka is één van de meest beroemde schijnbewegingen in het voetbal ter wereld. Waarom heet deze watervlugge voetbeweging, gebruikt door grootheden als Ronaldinho, Ronaldo en Edgar Davids, eigenlijk de Akka? Thomas Rijsman trekt enkele weken op met Roy Reid, een man met weinig bezit, anders dan zijn verhaal over de Akka, zijn bijnaam toen hij een kind was in Suriname. "De Akka is naar mij vernoemd," zegt Reid in het verhaal van Rijsman dat in Hard Gras nummer 56 werd gepubliceerd.
+
+----
+
+Size: small
+
+----
+
+Thumb: 
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: author
+
+----
+
+Credits: 
+
+- 
+  name: Ateur
+  function: Functie
+- 
+  name: Hard Gras
+  function: Opdrachtgever
+- 
+  name: "56"
+  function: Nummer
+- 
+  name: oktober, 2007
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: https://vimeo.com/174088440
+  _fieldset: video

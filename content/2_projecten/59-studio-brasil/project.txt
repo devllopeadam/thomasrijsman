@@ -1,0 +1,59 @@
+Title: Studio Brasil
+
+----
+
+Subtitle: Redacteur
+
+----
+
+Text: Nationale voetbalhuiskamer tijdens het WK Voetbal in Brazilië. Vaste bewoners Henry Schut (presentator), Hugo Borst (side-kick) én Messi (huishond) ontvangen elke dag voetbalkenners en andere verrassende gasten uit de wereld van de sport en entertainment.
+
+----
+
+Thumb: 
+
+----
+
+Main-image: 
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Redacteur
+  function: Functie
+- 
+  name: NOS Studio Sport
+  function: Opdrachtgever
+- 
+  name: NPO 1
+  function: Zender
+- 
+  name: Zomer, 2014
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture_1: img_4280.png
+  picture_2: img_4279.png
+  _fieldset: pictures
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

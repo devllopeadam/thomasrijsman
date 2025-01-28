@@ -1,0 +1,73 @@
+Title: De Belg in mij
+
+----
+
+Subtitle: Regisseur zelfportret
+
+----
+
+Text: Tereplein Media presenteert ‘De Belg in mij’, een korte documentaire met regisseur Thomas Rijsman zelf in de hoofdrol. Rijsman is geboren en getogen in Nederland, maar is 100% Belg dankzij Belgische ouders. In de zomer van 2018 bezocht hij de oefeninterland België – Nederland. Tijdens de wedstrijd stelde hij zichzelf de vraag voor wie hij nou eigenlijk is: het land waar is hij opgegroeid of het land van zijn bloed?
+
+----
+
+Size: small
+
+----
+
+Thumb: image-2019-04-16-3.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: https://youtu.be/_mb3f4F94Lg
+  _fieldset: video
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: Thomas Rijsman
+  function: Regisseur
+- 
+  name: 'Camera & geluid'
+  function: Sven Driesen
+- 
+  name: Matthijs Nolst Trenite
+  function: 'Visuals & design'
+- 
+  name: Tereplein Media
+  function: Producent
+- 
+  name: FC Afkicken
+  function: Gelanceerd ism
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture_1: image-2019-04-16-2.png
+  picture_2: image-2019-04-16.png
+  _fieldset: pictures
+- 
+  picture_1: image-2019-04-16-5.png
+  picture_2: image-2019-04-16-4.png
+  _fieldset: pictures
+- 
+  video: https://youtu.be/5hTIqRCYE10
+  _fieldset: video

@@ -1,0 +1,73 @@
+Title: Godendochters
+
+----
+
+Subtitle: Regisseur
+
+----
+
+Text: Voor de documentaire Godendochters volgde Waldemar Torenstra de Ajax vrouwen in een veelbewogen seizoen en brengt gedreven verhalen achter het team in beeld - over dromen en ambities,  doorzettingsvermogen en tegenslag.
+
+----
+
+Size: small
+
+----
+
+Thumb: schermafbeelding-2019-06-08-om-10.39.05.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: https://youtu.be/IIhUvF7c0tw
+  _fieldset: video
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: Thomas Rijsman
+  function: Regisseur
+- 
+  name: 7 juni 2019
+  function: Datum
+- 
+  name: ABN AMRO
+  function: Klant
+- 
+  name: HELDEN Media
+  function: Producent
+- 
+  name: Daan Adèr
+  function: Editor
+- 
+  name: Klaas Hoyng
+  function: Camera
+- 
+  name: 'Kelly van Tilborg & Marlies van Cleeff'
+  function: Redactie
+- 
+  name: Waldemar Torenstra
+  function: Presentatie
+- 
+  name: Ziggo Sport
+  function: Zender
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 

@@ -1,0 +1,55 @@
+Title: Studio Sportzomer Krakau
+
+----
+
+Subtitle: Redacteur
+
+----
+
+Text: De traditionele afsluiting van een EK-voetbaldag bij de NOS, iedere avond live vanuit Krakau. De studio heeft uitzicht op het hotel van spelers en begeleiding van Oranje tijdens het Europees Kampioenschap voetbal in Polen en de Oekraïne. Dagelijks schuiven drie prominente gasten aan bij presentator Jack van Gelder en huisanalytici Jan van Halst en Jan Mulder.
+
+----
+
+Thumb: 
+
+----
+
+Main-image: 
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Redacteur
+  function: Functie
+- 
+  name: NOS Studio Sport
+  function: Opdrachtgever
+- 
+  name: juni, 2012
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: groepsfoto.png
+  _fieldset: picture
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

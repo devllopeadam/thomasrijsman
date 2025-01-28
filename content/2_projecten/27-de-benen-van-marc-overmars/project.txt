@@ -1,0 +1,90 @@
+Title: De benen van Marc Overmars
+
+----
+
+Subtitle: Debuutfilm
+
+----
+
+Text: Behalve sportjournalist is Annemarie Postma (28) ook fan van Marc Overmars. Dat was ze als kind al maar is zij nog steeds. Hoe komt dat toch? vraagt Thomas Rijsman zich af, waarna hij Annemarie uitdaagt over haar relatie tot Overmars te schrijven. Anderhalf jaar werkt ze aan haar meest persoonlijke verhaal ooit, waarbij ze toch verrassende inzichten komt. Over Overmars én zichzelf. De benen van Marc Overmars was de officiële Nederlandse inzending van het 11MM International Football Film Festival Berlin, 2016.
+
+----
+
+Size: large
+
+----
+
+Thumb: benen-overmars-origineel.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: https://vimeo.com/140862542
+  _fieldset: video
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: Thomas Rijsman
+  function: Regisseur
+- 
+  name: Tom Poederbach
+  function: Camera
+- 
+  name: November, 2014
+  function: Première
+- 
+  name: One Saturday Afternoon
+  function: Producent
+- 
+  name: Het Parool, Hard Gras
+  function: Content partners
+- 
+  name: www.debenenvanmarcovermars.nl
+  function: Website
+- 
+  name: Fox Sports Nederland, AT5, RTVNH
+  function: Uitgezonden door
+- 
+  name: 'Officiële Nederlandse inzending  11MM International Football Film Festival Berlin'
+  function: Awards
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: >
+    https://www.youtube.com/watch?v=yXn3cPt_Gvg
+  _fieldset: video
+- 
+  video: https://vimeo.com/187803920
+  _fieldset: video
+- 
+  video: https://vimeo.com/187802601
+  _fieldset: video
+- 
+  picture_1: >
+    vlcsnap-2016-02-03-23h09m24s109-2016-02-03-at-23-09-24-kopie.png
+  picture_2: >
+    vlcsnap-2016-02-03-23h11m14s167-2016-02-03-at-23-11-14-kopie.png
+  _fieldset: pictures
+- 
+  picture: dbvmo-kopie.png
+  _fieldset: picture

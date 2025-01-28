@@ -1,0 +1,64 @@
+Title: Pielen met de bal
+
+----
+
+Subtitle: Met Miek van Geenhuizen terug naar de oorsprong
+
+----
+
+Text: Miek van Geenhuizen is de meest techische speelster van de hoofdklasse en ze is anders dan anderen. Laat haar maar lekker pielen. Een portret op het pleintje waar ze als kind zichzelf leerde hockeyen.
+
+----
+
+Size: small
+
+----
+
+Thumb: schermafbeelding-2016-07-07-om-13.48.41.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: Thomas Rijsman
+  function: Regisseur
+- 
+  name: 'Thomas Rijsman & Nils Adriaans'
+  function: Interview
+- 
+  name: Tom Poederbach
+  function: 'Camera & Edit'
+- 
+  name: One Saturday Afternoon
+  function: Producent
+- 
+  name: Parool TV
+  function: Opdrachtgever
+- 
+  name: "2010"
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: https://vimeo.com/7748651
+  _fieldset: video

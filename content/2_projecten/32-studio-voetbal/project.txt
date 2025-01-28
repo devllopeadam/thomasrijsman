@@ -1,0 +1,68 @@
+Title: Studio Voetbal
+
+----
+
+Subtitle: Redacteur
+
+----
+
+Text: Studio Voetbal is ruim anderhalf decennium lang al de best bekeken voetbal talkshow van Nederland, met gemiddeld één miljoen kijkers, iedere zondagavond, veertig weken per jaar. Thomas Rijsman werkte bijna vijf seizoenen lang als redacteur voor het programma.
+
+----
+
+Thumb: 
+
+----
+
+Main-image: 
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Redacteur
+  function: Functie
+- 
+  name: NOS Studio Sport
+  function: Opdrachtgever
+- 
+  name: NPO 1
+  function: Zender
+- 
+  name: '2011 - 2016'
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: thomas_4.png
+  _fieldset: picture
+- 
+  picture: thomas_2.png
+  _fieldset: picture
+- 
+  picture_1: thomas_5.png
+  picture_2: thomas_1.png
+  _fieldset: pictures
+- 
+  picture: thomas_3.png
+  _fieldset: picture
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

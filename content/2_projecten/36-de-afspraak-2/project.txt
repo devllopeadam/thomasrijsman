@@ -1,0 +1,58 @@
+Title: Abby Wambach for President
+
+----
+
+Subtitle: Aan tafel bij De Afspraak
+
+----
+
+Text: Abby Wambach, Amerikaans international en statistisch de beste voetbalster ooit, heeft haar afscheid als prof aangekondigd. Thomas Rijsman ziet in haar een toekomstige president van de FIFA. En misschien zelfs van Amerika. In het programma De Afspraak brengt hij een ode aan Wambach.
+
+----
+
+Thumb: img_1189.png
+
+----
+
+Main-image: 
+
+- 
+  video: https://vimeo.com/173613938
+  _fieldset: video
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Gast talkshow
+  function: Functie
+- 
+  name: Canvas
+  function: Zender
+- 
+  name: De Afspraak
+  function: Programma
+- 
+  name: 30 oktober, 2015
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

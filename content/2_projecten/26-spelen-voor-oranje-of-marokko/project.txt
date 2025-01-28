@@ -1,0 +1,58 @@
+Title: Spelen voor Oranje of Marokko?
+
+----
+
+Subtitle: Aan tafel bij de Nieuwe Maan
+
+----
+
+Text: Steeds meer Marokkaans-Nederlandse voetballers spelen liever voor Marokko dan voor Nederland. Ali Boussaboun, Henk Spaan en Thomas Rijsman schuiven aan bij de Nieuwe Maan om erover te praten.
+
+----
+
+Size: small
+
+----
+
+Thumb: 
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: https://vimeo.com/267371831
+  _fieldset: video
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Gast talkshow
+  function: Functie
+- 
+  name: De Nieuwe Maan
+  function: Programma
+- 
+  name: NPO2
+  function: Zender
+- 
+  name: 10 november, 2017
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 

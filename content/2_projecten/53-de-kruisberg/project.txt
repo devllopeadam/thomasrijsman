@@ -1,0 +1,64 @@
+Title: De Kruisberg
+
+----
+
+Subtitle: Hockeytop dankzij de Kruisberg
+
+----
+
+Text: Hockeyer Teun Rohof is één van de steunpilaren van landskampioen Amsterdam. Ook is hij international. Zijn grootste kracht is zijn mentaliteit en doorzettingsvermogen, die Rohof te danken heeft aan de Kruisberg, de berg die hij in zijn jeugd bijna elke keer bedwong als hij van thuis naar zijn club fietste.
+
+----
+
+Size: small
+
+----
+
+Thumb: schermafbeelding-2016-07-07-om-13.40.34.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: Thomas Rijsman
+  function: Regisseur
+- 
+  name: Tom Poederbach
+  function: 'Camera & Edit'
+- 
+  name: 'Thomas Rijsman & Nils Adriaans'
+  function: Interview
+- 
+  name: One Saturday Afternoon
+  function: Producent
+- 
+  name: Sanoma / Hockey Magazine
+  function: Opdrachtgever
+- 
+  name: "2011"
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: https://vimeo.com/13710185
+  _fieldset: video

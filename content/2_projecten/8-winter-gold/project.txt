@@ -1,0 +1,78 @@
+Title: Winter Gold
+
+----
+
+Subtitle: Regisseur
+
+----
+
+Text: 
+
+Winter Gold is een documentaire serie over de levens en ambities van zeven winteratleten. Ze worden gevolgd in hun laatste maanden voorbereiding op de Olympische Winterspelen van 2022. Wat is er echt nodig om de beste te worden in je sport? Welke offers worden er gemaakt? Welke pijn moet worden doorstaan? Dit zijn vragen die ook gesteld zijn aan de Nederlandse lange baan schaatser Kai Verbij, die na een mislukt Olympisch avontuur in 2018 op jacht was naar eerherstel. Voor deze Chinees-Amerikaanse productie was ik de locale regisseur in Nederland.
+
+Winter Gold is an intimate docuseries about the lives and driving forces behind seven winter sports athletes as they continue their quest for glory. It’s the story of what it really takes to become the best. I was the local director in Holland for the storyline of Kai Verbij, one of the seven athletes in Winter Gold.
+
+----
+
+Size: small
+
+----
+
+Thumb: whatsapp-image-2021-07-04-at-21.05.32.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: https://youtu.be/1zeSzQ2UBec
+  _fieldset: video
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: Thomas Rijsman
+  function: Regisseur
+- 
+  name: Februari 2022
+  function: Datum
+- 
+  name: Grain
+  function: Producer
+- 
+  name: Josh Vaselka
+  function: Series director
+- 
+  name: Insight TV / CCTV9
+  function: Zender / Platform
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture_1: >
+    whatsapp-image-2021-07-27-at-17.22.24.png
+  picture_2: >
+    whatsapp-image-2021-07-04-at-21.05.32-2.png
+  _fieldset: pictures
+- 
+  picture_1: >
+    whatsapp-image-2021-07-27-at-17.22.26.png
+  picture_2: >
+    whatsapp-image-2021-08-25-at-13.36.46.png
+  _fieldset: pictures

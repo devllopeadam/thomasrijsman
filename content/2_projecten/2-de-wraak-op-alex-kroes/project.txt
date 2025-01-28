@@ -1,0 +1,58 @@
+Title: De wraak op Alex Kroes
+
+----
+
+Subtitle: Verhaal in Hard Gras
+
+----
+
+Text: In het seizoen 2023/2024 raak in een wedstrijd met de klassieke veteranen van AFC tegen Ajax door een duw in mijn rug zwaar geblesseerd aan mijn schouder. De dader: de dan toekomstige nieuwe algemeen directeur van Ajax, Alex Kroes. Omdat hij nooit sorry zegt, besluit ik vijf maanden later - als mijn schouder weer hersteld is – wraak te nemen op Kroes. Om daar vervolgens een verhaal over te schrijven dat verscheen in Hard Gras nummer 157. Mijn vijfde verhaal in het literaire voetbaltijdschrift.
+
+----
+
+Size: small
+
+----
+
+Thumb: screenshot-2024-07-22-at-13.18.24.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: author
+
+----
+
+Credits: 
+
+- 
+  name: Auteur
+  function: Functie
+- 
+  name: Hard Gras
+  function: Opdrachtgever
+- 
+  name: nummer 157
+  function: Uitgave
+- 
+  name: augustus, 2024
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: img_6664.png
+  _fieldset: picture

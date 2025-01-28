@@ -1,0 +1,115 @@
+title: Project
+
+pages: true
+
+files: true
+
+fields:
+  title:
+    label: Titel
+    type: text
+
+  subtitle:
+    label: Subtitel
+    type: text
+    help: Optioneel
+
+  text:
+    label: Tekst
+    type: textarea
+
+  size:
+    label: Weergave
+    type: select
+    options:
+      large: Groot
+      medium: Middel
+      small: Klein
+    default: small
+
+  thumb:
+    label: Thumbnail
+    type: image
+    help: Wanneer leeg vervangen door steunkleur
+    width: 1/2
+
+  thumb_vid:
+    label: Thumbnail snippet
+    type: select
+    options: videos
+    help: Optioneel, mp4 – H264 encodering
+    width: 1/2
+
+  main_image:
+    label: Hoofdbeeld
+    type: builder
+    fieldsets:
+      picture:
+        label: Afbeelding
+        fields:
+          picture:
+            type: image
+            label: Afbeelding
+      video:
+        label: Video
+        fields:
+          video:
+            type: url
+            label: Video URL
+
+  category:
+    label: Categorie
+    type: select
+    options:
+      author: Auteur
+      documentary: Documentaire
+      tv: Television
+
+  credits:
+    label: Credits
+    type: structure
+    fields:
+      name:
+        label: Naam
+        type: text
+      function:
+        label: Functie
+        type: text
+
+  credits_alt:
+    label: Credits 2
+    type: structure
+    help: (Optioneel)
+    fields:
+      name:
+        label: Naam
+        type: text
+      function:
+        label: Functie
+        type: text
+
+  assets:
+    label: Beeld
+    type: builder
+    fieldsets:
+      picture:
+        label: Afbeelding
+        fields:
+          picture:
+            type: image
+            label: Afbeelding
+      pictures:
+        label: Afbeelding splitscreen
+        fields:
+          picture_1:
+            type: image
+            label: Afbeelding 1
+          picture_2:
+            type: image
+            label: Afbeelding 2
+      video:
+        label: Video
+        fields:
+          video:
+            type: url
+            label: Video URL

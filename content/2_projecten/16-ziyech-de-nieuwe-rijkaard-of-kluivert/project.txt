@@ -1,0 +1,58 @@
+Title: Is Ziyech de nieuwe Rijkaard?
+
+----
+
+Subtitle: Aan tafel bij De Nieuwe Maan
+
+----
+
+Text: Afgelopen week speelde Ajax de eerste Champions League wedstrijd in 4 jaar tegen AEK Athene. In 1995 lukte het de Amsterdammers als laatste Nederlandse club het miljoenenbal te winnen. Vijf voetballers van Surinaamse afkomst waren toen de grote sterren: Kluivert, Seedorf, Rijkaard, Bogarde en Reiziger. Nu zijn het de spelers met Marokkaanse roots, die uitblinken, waaronder  Ziyech en Mazraoui. Kunnen zij Ajax leiden naar nieuw Europees succes? Aan tafel: Thomas Rijsman (sportjournalist) en Dries Boussatta (oud-international).
+
+----
+
+Size: small
+
+----
+
+Thumb: dnm2.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: https://vimeo.com/275649131
+  _fieldset: video
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Gast talkshow
+  function: Functie
+- 
+  name: NPO2
+  function: Zender
+- 
+  name: De Nieuwe Maan
+  function: Programma
+- 
+  name: 21 september, 2018
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 

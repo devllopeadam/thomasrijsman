@@ -1,0 +1,67 @@
+Title: Nouri versus Ajax
+
+----
+
+Subtitle: Aan tafel bij M
+
+----
+
+Text: De familie van de door hersenletsel getroffen Abdelhak Nouri stapt naar de arbitragecommissie van de KNVB. Volgens de advocaat van de familie weigert Ajax verantwoordelijkheid te nemen. Oud-voetballer en advocaat Keje Molenaar en sportjournalist Thomas Rijsman, schuiven aan.
+
+----
+
+Size: small
+
+----
+
+Thumb: image-2018-06-05-4.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: https://youtu.be/Ap-BDUw9OTk
+  _fieldset: video
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Gast talkshow
+  function: Functie
+- 
+  name: NPO1
+  function: Zender
+- 
+  name: M
+  function: Programma
+- 
+  name: 4 juni, 2018
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture_1: image-2018-06-05-3.png
+  picture_2: image-2018-06-05-2.png
+  _fieldset: pictures
+- 
+  picture_1: image-2018-06-05-4.png
+  picture_2: image-2018-06-05.png
+  _fieldset: pictures

@@ -1,0 +1,58 @@
+Title: Staanplaats
+
+----
+
+Subtitle: Columnist in Het Parool
+
+----
+
+Text: Matthijs van Nieuwkerk bedenkt in 1997 de Ajaxrubriek ‘Staanplaats’ in Het Parool. Elke dag dezelfde journalist naast het trainingsveld van Ajax, om daar kleine en grote verhalen op te tekenen over spelers, supporters en trainers. Thomas Rijsman schrijft tussen 2006 en 2009 ruim 600 columns over Ajax voor Het Parool.
+
+----
+
+Thumb: 
+
+----
+
+Main-image: 
+
+----
+
+Category: author
+
+----
+
+Credits: 
+
+- 
+  name: Columnist
+  function: Functie
+- 
+  name: Dagelijks, m.u.v. maandag
+  function: Frequentie
+- 
+  name: Het Parool
+  function: Krant
+- 
+  name: 2006-2009
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: https://youtu.be/MFbZxoPqDqo
+  _fieldset: video
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

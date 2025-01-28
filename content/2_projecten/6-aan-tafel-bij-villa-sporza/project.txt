@@ -1,0 +1,62 @@
+Title: Aan tafel bij Villa Sporza
+
+----
+
+Subtitle: Praten over Oranje, de Rode Duivels en de Atlas Leeuwen
+
+----
+
+Text: Tijdens het WK in Qatar (2022) was ik te gast bij Villa Sporza, het dagelijkse WK-voetbalprogramma van de VRT met Karl van Nieuwkerke als presentator. Als Nederbelg die een boek schreef over Marokkaanse voetballers in de Eredivisie (Marokkaanse Trots) kon ik meepraten over de prestaties van Oranje, de Rode Duivels en de nationale ploeg van Marokko, die verrassend tot de halve finale reikten. Te gast waren ook Youri Mulder, Wesley Sonck en Bob Peeters.
+
+----
+
+Size: large
+
+----
+
+Thumb: bij-de-vrt-2.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: https://vimeo.com/805433565
+  _fieldset: video
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Gast talkshow
+  function: Functie
+- 
+  name: VRT
+  function: Zender
+- 
+  name: Villa Sporza
+  function: Programma
+- 
+  name: 8 december, 2022
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: https://vimeo.com/805433415
+  _fieldset: video

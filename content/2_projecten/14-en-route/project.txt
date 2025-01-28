@@ -1,0 +1,68 @@
+Title: En route
+
+----
+
+Subtitle: Interview & regie
+
+----
+
+Text: In 2019 werd het WK vrouwenvoetbal in Frankrijk gespeeld, met Nederland als één van de deelnemers. In de online videoserie 'En Route' van Price Waterhouse Coopers Nederland zie je welk pad vijf Oranje Leeuwinnen hebben bewandeld om te komen waar ze nu staan. Voor twee van de vijf portretten - Merel van Dongen en Sherida Spitse - deed ik de interviews en regie. De serie is geproduceerd door Helden Media.
+
+----
+
+Size: small
+
+----
+
+Thumb: schermafbeelding-2019-05-29-om-08.52.18.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: 'https://www.youtube.com/watch?v=niU_2SO1jNs&feature=youtu.be'
+  _fieldset: video
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: interview en regie
+  function: 'Functie:'
+- 
+  name: online
+  function: 'Medium:'
+- 
+  name: Helden Media
+  function: 'Producent:'
+- 
+  name: PWC Nederland
+  function: 'In opdracht van:'
+- 
+  name: Leon Bellaart
+  function: 'Format ontwikkeling:'
+- 
+  name: mei 2019
+  function: 'Datum:'
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: https://youtu.be/MUug3HR6h3c
+  _fieldset: video

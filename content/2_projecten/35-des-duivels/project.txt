@@ -1,0 +1,57 @@
+Title: Des Duivels
+
+----
+
+Subtitle: Columns over de Rode Duivels
+
+----
+
+Text: Thomas Rijsman is behalve voetbalredacteur bij de NOS ook Belg. Maar wel eentje die geboren en getogen is in Nederland. In zijn column Des Duivels houdt hij voor de NOS vier jaar lang de verrichtingen van zijn vaderland nauwlettend in de gaten. Behalve op de website van de NOS zijn de columns ook te lezen op nederbelg.amsterdam.
+
+----
+
+Thumb: 
+
+----
+
+Main-image: 
+
+----
+
+Category: author
+
+----
+
+Credits: 
+
+- 
+  name: Columnist
+  function: Functie
+- 
+  name: Online
+  function: Medium
+- 
+  name: NOS Studio Sport
+  function: Opdrachtgever
+- 
+  name: www.nos.nl/sport
+  function: Website
+- 
+  name: '2012 - 2016'
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

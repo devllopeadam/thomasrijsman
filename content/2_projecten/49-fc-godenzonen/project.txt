@@ -1,0 +1,58 @@
+Title: FC Godenzonen
+
+----
+
+Subtitle: TV columnist AT5
+
+----
+
+Text: Voor de Amsterdamse krant Het Parool schrijft Rijsman columns over Ajax. Deze vertaalt hij voor stadszender AT5 naar columns voor televisie, eerst live in de studio, daarna opgenomen op locatie, uitgezonden in het programma FC Godenzonen. Tevens schuift hij regelmatig aan als analist ter duiding van de voetbalactualiteit.
+
+----
+
+Thumb: fcgodenzonen.gif
+
+----
+
+Main-image: 
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: 'Columnist & analist'
+  function: Functie
+- 
+  name: AT5
+  function: Opdrachtgever
+- 
+  name: 2007-2008
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: https://vimeo.com/173742495
+  _fieldset: video
+- 
+  video: https://vimeo.com/171909017
+  _fieldset: video
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

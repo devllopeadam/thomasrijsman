@@ -1,0 +1,73 @@
+Title: Hyena's op het ijs
+
+----
+
+Subtitle: Regisseur
+
+----
+
+Text: In de documentaire Hyena’s op het IJs worden de shorttrackers Sjinkie Knegt, Jorien ter Mors en Suzanne Schulting gevolgd op weg naar de Olympische Spelen in PyeongChang. Maar die gouden jacht gaat niet zonder slag of stoot. Drie verschillende karakters met hetzelfde doel: het eerste olympische shorttrackgoud mee terug nemen naar Nederland. Voor bondscoach Jeroen Otter loopt de spanning misschien nog wel het meeste op. Lukt het hem om zijn ‘hyena’s’ optimaal op koers te houden richting het goud?
+
+----
+
+Size: small
+
+----
+
+Thumb: image-2018-01-23.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: >
+    https://www.youtube.com/watch?v=gO5Bzt0JQG0
+  _fieldset: video
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: Thomas Rijsman
+  function: Regisseur
+- 
+  name: Jasper Faber
+  function: Camera
+- 
+  name: Leon Bellaart
+  function: Co-regie
+- 
+  name: Nils Rensen
+  function: Editor
+- 
+  name: HELDEN MEDIA
+  function: Producent
+- 
+  name: KPN / Samsung
+  function: Klant
+- 
+  name: 19 januari, 2018
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: >
+    schermafbeelding-2018-01-23-om-09.48.51.png
+  _fieldset: picture

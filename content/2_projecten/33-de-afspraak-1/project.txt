@@ -1,0 +1,58 @@
+Title: Rode Duivels nummer één van de wereld
+
+----
+
+Subtitle: Aan tafel bij De Afspraak
+
+----
+
+Text: De Rode Duivels zijn de nieuwe nummer één van de wereld. En Oranje heeft zich definitief niet gekwalificeerd voor het EK voetbal. Nederbelg Thomas Rijsman geeft samen met sportjournalist Ruben van der Gucht commentaar op deze unieke samenloop van omstandigheden.
+
+----
+
+Thumb: 0014.png
+
+----
+
+Main-image: 
+
+- 
+  video: https://vimeo.com/173619834
+  _fieldset: video
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Gast talkshow
+  function: Functie
+- 
+  name: Canvas
+  function: Zender
+- 
+  name: De Afspraak
+  function: Programma
+- 
+  name: 14 oktober, 2015
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: de_afspraak-173619834_converted-1.mp4

@@ -1,0 +1,61 @@
+Title: Clubhuis 16
+
+----
+
+Subtitle: Senior Redacteur
+
+----
+
+Text: Clubhuis 16 is een sportprogramma met een verfrissende kijk op sport, uitgezonden door KPN Presenteert. Presentator Filemon ontvangt elke week sporters met een écht verhaal.
+
+----
+
+Thumb: clubhuis16_bartheemskerk_12_hq.png
+
+----
+
+Main-image: 
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Senior-redacteur
+  function: Functie
+- 
+  name: CCCP
+  function: Opdrachtgever
+- 
+  name: KPN Presenteert
+  function: Zender
+- 
+  name: 'oktober 2015 - februari 2016'
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: clubhuis16_bartheemskerk_07_hq.png
+  _fieldset: picture
+- 
+  picture: clubhuis16_bartheemskerk_12_hq.png
+  _fieldset: picture
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

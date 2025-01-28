@@ -1,0 +1,58 @@
+Title: Het Parool
+
+----
+
+Subtitle: Sportverslaggever
+
+----
+
+Text: Als sportjournalist bij Het Parool - eerst als verslaggever van het amateurvoetbal en andere (Olympische) sporten - wordt Rijsman al snel Ajaxwatcher van de krant. In die hoedanigheid schrijft hij columns, wedstrijdverslagen en heeft hij talloze interviews met spelers en trainers. Het is de tijd van Henk ten Cate, Adri Koster, Marco van Basten, Martin Jol, Klaas Jan Huntelaar, Edgar Davids, Luis Suarez en veel andere topvoetballers (in de dop).
+
+----
+
+Thumb: 
+
+----
+
+Main-image: 
+
+----
+
+Category: author
+
+----
+
+Credits: 
+
+- 
+  name: Sportjournalist
+  function: Functie
+- 
+  name: Het Parool
+  function: Opdrachtgever
+- 
+  name: '2005 - 2011'
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture_1: >
+    schermafbeelding-2016-06-28-om-10.09.32.png
+  picture_2: >
+    schermafbeelding-2016-06-28-om-10.09.50.png
+  _fieldset: pictures
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

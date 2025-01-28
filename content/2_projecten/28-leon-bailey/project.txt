@@ -1,0 +1,71 @@
+Title: Leon Bailey
+
+----
+
+Subtitle: Vader-zoon verhaal in Hard Gras
+
+----
+
+Text: Leon Bailey van Racing Genk is Jamaicaan en één van de grootste talenten van Europa. Topclubs jagen al jaren op zijn handtekening, Chelsea en Ajax voorop. Rijsman zoekt samen met zijn Vlaamse vader Bailey op en sprak met de voetballer over zijn wens om misschien ook Belg te worden. De ontmoeting met Bailey en de gesprekken met zijn eigen vader geven Rijsman ook inzicht in zijn eigen verhouding tot zijn Belgische nationaliteit. Het verhaal werd gepubliceerd in een speciaal Belgen-thema nummer van literair voetbaltijdschrift Hard Gras, in de aanloop naar het EK voetbal in Frankrijk (2016).
+
+----
+
+Thumb: 
+
+----
+
+Main-image: 
+
+----
+
+Category: author
+
+----
+
+Credits: 
+
+- 
+  name: Auteur
+  function: Functie
+- 
+  name: Hard Gras
+  function: Opdrachtgever
+- 
+  name: "108"
+  function: 'Nummer:'
+- 
+  name: >
+    Filip Joos, Marcel van Roosmalen, Joost
+    Vandecasteele, Ivo Victoria, Lize Spit,
+    Herman Brusselmans, e.a.
+  function: Andere auteurs
+- 
+  name: Kamagurka
+  function: 'Ontwerp cover:'
+- 
+  name: Juni, 2016
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: hard-gras-nummer-108-rgb.png
+  _fieldset: picture
+- 
+  picture_1: img_4556.png
+  picture_2: img_4559.png
+  _fieldset: pictures
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

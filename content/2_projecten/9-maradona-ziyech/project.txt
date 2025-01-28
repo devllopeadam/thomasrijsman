@@ -1,0 +1,63 @@
+Title: Maradona & Ziyech
+
+----
+
+Subtitle: Aan tafel bij de Nieuwe Maan
+
+----
+
+Text: Bijna zijn hele carrière lang werd er getwijfeld aan de kwaliteiten van profvoetballer Hakim Ziyech. Zou hij goed genoeg zijn voor de wereldtop, was altijd de vraag. Inmiddels is hij speler van Chelsea en doet hij wat hij altijd heeft gedaan: zijn ploeg bij de hand nemen. Samen met ex-prof Anouar Diba reflecteer ik op de eerste weken van Ziyech in de Engelse Premier League. Ook spreken we over Diego Maradona, die op zestigjarige leeftijd onverwacht kwam te overlijden.
+
+----
+
+Size: small
+
+----
+
+Thumb: img_6085.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Gast talkshow
+  function: Functie
+- 
+  name: NPO 2 / NTR
+  function: Zender
+- 
+  name: De Nieuwe Maan
+  function: Programma
+- 
+  name: 27/11/2020
+  function: Datum
+- 
+  name: >
+    https://denieuwemaan.ntr.nl/diego-maradona-de-nieuwe-maan/
+  function: Kijklink
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture_1: img_6085.png
+  picture_2: img_6086.png
+  _fieldset: pictures

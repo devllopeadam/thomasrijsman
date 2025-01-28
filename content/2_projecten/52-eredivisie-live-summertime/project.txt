@@ -1,0 +1,58 @@
+Title: Eredivisie Live Summertime
+
+----
+
+Subtitle: Presentator
+
+----
+
+Text: Op betaalzender Eredivisie Live presenteert  Rijsman samen met co-presentatrice Martine Braam, iedere dag het voetbalprogramma Eredivisie Live Summertime, een dagelijkse portie voetbalnieuws en verschillende achtergrondreportages.
+
+----
+
+Thumb: 16428637.png
+
+----
+
+Main-image: 
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Presentator
+  function: Functie
+- 
+  name: Endemol
+  function: Opdrachtgever
+- 
+  name: Eredivisie Live
+  function: Zender
+- 
+  name: Zomer, 2009
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: 16428637.png
+  _fieldset: picture
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

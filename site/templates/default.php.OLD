@@ -1,0 +1,56 @@
+<?php snippet('header') ?>
+
+<?php if ($page->intendedTemplate() == 'project'): ?>
+  <?php snippet('project'); ?>
+  <!--googleoff: index-->
+<?php endif; ?>
+
+<main class="projects">
+
+  <header class="projects-header">
+    <?php snippet('menu', array('color' => 'black')) ?>
+
+    <?php snippet('project-nav') ?>
+  </header>
+
+  <section class="grid fn-masonry">
+    <?php $projects = $pages->find('projecten')->children()->visible() ?>
+    <?php snippet('projects', array('projects' => $projects)) ?>
+  </section>
+
+  <footer class="footer">
+    <div class="footer-links">
+      <?php if ($site->email()->isNotEmpty()): ?>
+        <a class="footer-links-link footer-links-link--email" href="mailto:<?= $site->email() ?>"></a>
+      <?php endif; ?>
+      <?php if ($site->facebook()->isNotEmpty()): ?>
+        <a class="footer-links-link footer-links-link--facebook" href="<?= $site->facebook() ?>"></a>
+      <?php endif; ?>
+      <?php if ($site->linkedin()->isNotEmpty()): ?>
+        <a class="footer-links-link footer-links-link--linkedin" href="<?= $site->linkedin() ?>"></a>
+      <?php endif; ?>
+      <?php if ($site->twitter()->isNotEmpty()): ?>
+        <a class="footer-links-link footer-links-link--twitter" href="<?= $site->twitter() ?>"></a>
+      <?php endif; ?>
+      <?php if ($site->tumblr()->isNotEmpty()): ?>
+        <a class="footer-links-link footer-links-link--tumblr" href="<?= $site->tumblr() ?>"></a>
+      <?php endif; ?>
+      <?php if ($site->snapchat()->isNotEmpty()): ?>
+        <a class="footer-links-link footer-links-link--instagram" href="https://instagram.com/<?= $site->snapchat() ?>"></a>
+      <?php endif; ?>
+      <?php if ($site->vimeo()->isNotEmpty()): ?>
+        <a class="footer-links-link footer-links-link--vimeo" href="<?= $site->vimeo() ?>"></a>
+      <?php endif; ?>
+    </div>
+    <p>
+      <small>Design: <a href="http://www.vanlennep.eu" target="_blank">Van Lennep</a></small>
+    </p>
+  </footer>
+
+</main>
+
+<?php if ($page->intendedTemplate() == 'project'): ?>
+  <!--googleon: index-->
+<?php endif; ?>
+
+<?php snippet('footer') ?>

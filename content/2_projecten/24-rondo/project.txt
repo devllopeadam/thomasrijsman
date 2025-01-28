@@ -1,0 +1,61 @@
+Title: Rondo
+
+----
+
+Subtitle: (Eind)redacteur
+
+----
+
+Text: Voetbal talkshow op Ziggo Sport. Samen met Jan van Halst, Wim Kieft, Ruud Gullit en wekelijks wisselende gasten bespreekt Jack van Gelder alle nationale en internationale voetbalgebeurtenissen, iedere zondagavond van 21.30 uur tot 22.30 uur. Vast onderdeel van de show is o.a. de '90 seconden met Pieter Zwart', een alternatieve kijk op de voetbal actualiteit.
+
+----
+
+Size: small
+
+----
+
+Thumb: 
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: 'Redactie & Eindredacteur'
+  function: Functie
+- 
+  name: Southfields
+  function: Producent
+- 
+  name: Ziggo Sport
+  function: Zender
+- 
+  name: '2016 - 2021'
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: https://vimeo.com/184531841
+  _fieldset: video
+- 
+  video: https://vimeo.com/183459965
+  _fieldset: video

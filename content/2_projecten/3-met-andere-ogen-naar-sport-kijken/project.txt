@@ -1,0 +1,58 @@
+Title: Met andere ogen kijken naar sport.
+
+----
+
+Subtitle: Aan tafel bij Tijd voor Max
+
+----
+
+Text: Na het weekend dat Mathieu van der Poel met verbluffende overmacht Parijs-Roubaix won en Ajax de Klassieker met liefst 6-0 verloor, schoof ik aan bij Tijd voor Max. Ook sprak  ik over de uitdagende fase waarin de Oranje Leeuwinnen zich bevinden, nu een ervaren en succesvolle generatie op de laatste benen loopt en de aanwas nog niet van wereldniveau is om de ploeg te dragen.
+
+----
+
+Size: small
+
+----
+
+Thumb: img_2969.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Aan tafel bij Tijd voor Max
+  function: Functie
+- 
+  name: NPO 1
+  function: Zender
+- 
+  name: Omroep Max
+  function: Zender
+- 
+  name: 8 april, 2024
+  function: Datum
+- 
+  name: >
+    https://www.maxvandaag.nl/videos-fragmenten/fragmenten-tijd-voor-max/klassieker-en-mathieu-van-der-poel-terugblikken-op-het-enerverende-sportweekend-met-thomas-rijsman/
+  function: Kijklink
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 

@@ -1,0 +1,64 @@
+Title: Mijn vader is een kaartspeler
+
+----
+
+Subtitle: Marcel Lüske in Vegas en A'dam
+
+----
+
+Text: Marcel Lüske is een professioneel pokerspeler uit Amsterdam. Op de Dappermarkt, de plek waar hij is opgegroeid, en op een pokertoernooi in Las Vegas, vertelt Lüske over het contrast tussen zijn eenvoudige jeugd en het glamourleven van een  professioneel pokerspeler.
+
+----
+
+Size: small
+
+----
+
+Thumb: schermafbeelding-2016-07-07-om-13.33.05.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: Thomas Rijsman
+  function: Regisseur
+- 
+  name: 'Thomas Rijsman & Nils Adriaans'
+  function: Interview
+- 
+  name: Tom Poederbach
+  function: 'Camera & Edit'
+- 
+  name: One Saturday Afternoon
+  function: Producent
+- 
+  name: Het Parool
+  function: Opdrachtgever
+- 
+  name: "2010"
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: https://vimeo.com/6085199
+  _fieldset: video

@@ -1,0 +1,79 @@
+Title: Marokkaanse Trots
+
+----
+
+Subtitle: Regisseur
+
+----
+
+Text: Sportjournalist Nordin Ghouddani is een Marokkaanse-Nederlander, net als Ajacied Hakim Ziyech en Feyenoord-middenvelder Sofyan Amrabat. Hoe is het om twee vaderlanden te hebben? Wat gebeurt er als die landen tegen elkaar voetballen?  En: wat is Marokkaanse trots? Die vragen stelde collega-sportjournalist aan Nordin Ghouddani tijdens de oefeninterland Marokko - Nederland, gespeeld in de zomer van 2017.
+
+----
+
+Size: small
+
+----
+
+Thumb: image-2018-01-29.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: https://youtu.be/ffai1mcxtP8
+  _fieldset: video
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: Thomas Rijsman
+  function: 'Regisseur & Camera'
+- 
+  name: Tom Poederbach
+  function: 'Montage & Audiomix'
+- 
+  name: 18min56sec
+  function: Lengte
+- 
+  name: Tereplein Media
+  function: Producent
+- 
+  name: One Saturday Afternoon
+  function: Co-producent
+- 
+  name: november, 2017
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: >
+    18814840_10155309982753965_3916697276865498505_o-kopie.png
+  _fieldset: picture
+- 
+  picture_1: >
+    18738992_10155307771973965_3818004846046064853_o.png
+  picture_2: >
+    18891447_10155307771418965_6658519016793720309_o.png
+  _fieldset: pictures
+- 
+  picture: >
+    18739278_10155310881258965_5456558757493504055_o.png
+  _fieldset: picture

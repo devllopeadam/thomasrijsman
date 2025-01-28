@@ -1,0 +1,66 @@
+Title: Wenen van geluk
+
+----
+
+Subtitle: Co-auteur
+
+----
+
+Text: Wenen was het decor van de laatste Europa Cup-winst van Ajax. Daarmee werd de club uit Amsterdam de laatste Nederlandse kampioen van Europa, in 2015 precies twintig jaar geleden. De winst levert nog steeds euforische verhalen op van de spelers, de trainer, fans, sportverslaggevers en schrijvers. In het boek Wenen van geluk zijn die bijeengebracht. Thomas Rijsman schreef een verhaal over Frank Rijkaard en sprak samen met co-auteur Marcel Stephan met Danny Blind, de aanvoerder van Ajax in 1995.
+
+----
+
+Thumb: 
+
+----
+
+Main-image: 
+
+----
+
+Category: author
+
+----
+
+Credits: 
+
+- 
+  name: Co-auteur
+  function: Functie
+- 
+  name: Nieuw Amsterdam
+  function: Uitgever
+- 
+  name: >
+    Willem Vissers, Menno Pot, Paul
+    Onkenhout, Arthur van den Boogaard,
+    Melle Runderkamp, Janneke van der Horst,
+    Frank Heinen, Thomas Heerma van Voss,
+    Thijs Pennings.
+  function: Met medewerking van
+- 
+  name: Louis van Gaal
+  function: Met voorwoord van
+- 
+  name: Mei, 2015
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: cover_wenenvangeluk_web.png
+  _fieldset: picture
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

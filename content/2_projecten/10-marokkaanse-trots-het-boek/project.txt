@@ -1,0 +1,74 @@
+Title: Marokkaanse trots, het boek
+
+----
+
+Subtitle: Schrijver
+
+----
+
+Text: De één is in Nederland geboren, de ander in Marokko, maar sportjournalisten en jeugdvrienden Thomas Rijsman en Nordin Ghouddani vinden elkaar in hun passie voor attractief voetbal. Om die reden houden ze vooral van Marokkaanse voetballers. Met hun techniek en creativiteit zijn dat de smaakmakers op de Nederlandse velden, Hakim Ziyech voorop. En er zijn steeds meer Marokkaanse Eredivisiespelers, inmiddels bijna tien procent van het totaal. Maar krijgen ze wel de aandacht en erkenning die ze verdienen? Tegen welke vooroordelen lopen ze aan? En waar blijft de eerste Marokkaanse hoofdtrainer? Met deze vragen op zak bezoeken ze tal van spelers in het land. Marokkaanse trots neemt je mee in een wereld van talent, creativiteit, cultuur en geloof – en laat daarbij geen taboe onbesproken.
+
+----
+
+Size: small
+
+----
+
+Thumb: marokkaanse-trots-ac-2020-kopie.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: 'https://www.youtube.com/watch?v=Otoy-RybP8U&feature=emb_titlehttps://www.youtube.com/watch?v=Otoy-RybP8U&feature=emb_title'
+  _fieldset: video
+
+----
+
+Category: author
+
+----
+
+Credits: 
+
+- 
+  name: Auteur
+  function: Functie
+- 
+  name: Nordin Ghouddani
+  function: Co-Auteur
+- 
+  name: Atlas Contact
+  function: Uitgeverij
+- 
+  name: 21 mei 2020
+  function: Verschijningsdatum
+- 
+  name: rubenpaulruben
+  function: Trailer
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: >
+    schermafbeelding-2019-10-21-om-16.20.23.png
+  _fieldset: picture
+- 
+  video: >
+    https://www.youtube.com/watch?v=ThH4ZvMelh0
+  _fieldset: video
+- 
+  video: >
+    https://m.kro-ncrv.nl/fragmenten/marokkaanse-trots-op-het-voetbalveld-herkenbaar-voor-khalid-boulahrouz
+  _fieldset: video

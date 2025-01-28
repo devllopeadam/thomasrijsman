@@ -1,0 +1,55 @@
+Title: MSN voetbal
+
+----
+
+Subtitle: Presentator
+
+----
+
+Text: Presentator Thomas Rijsman bespreekt samen met het MSN-publiek actuele onderwerpen uit de Eredivisie, die de gemoederen van voetbalminnend Nederland bezighouden.
+
+----
+
+Thumb: 040320092092.png
+
+----
+
+Main-image: 
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Presentator
+  function: Functie
+- 
+  name: Endemol
+  function: Opdrachtgever
+- 
+  name: "2009"
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: https://vimeo.com/173744179
+  _fieldset: video
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

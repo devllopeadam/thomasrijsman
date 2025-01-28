@@ -1,0 +1,57 @@
+Title: Marokkaanse trots op TV
+
+----
+
+Subtitle: Aan tafel bij M
+
+----
+
+Text: Samen met Thomas Rijsman en Nordin Ghouddani, Khalid Boulahrouz en eredivisie speelster bij VV Alkmaar Samya Hassani, bespreekt Margriet van der Linden het Marokkaans-Nederlands talent op de Nederlandse voetbalvelden.
+
+----
+
+Size: small
+
+----
+
+Thumb: mtbijm.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Gast talkshow
+  function: Functie
+- 
+  name: NPO 1
+  function: Zender
+- 
+  name: M
+  function: Programma
+- 
+  name: 20 mei 2019
+  function: Datum
+- 
+  name: ""
+  function: "<iframe src='https://m.kro-ncrv.nl/node/7371/embed' width='560' height='315' frameborder='0' allowfullscreen></iframe>v"
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 

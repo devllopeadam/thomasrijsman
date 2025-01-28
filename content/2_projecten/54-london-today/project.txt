@@ -1,0 +1,51 @@
+Title: London Today
+
+----
+
+Subtitle: Redacteur
+
+----
+
+Text: De 'tussenstand' van de Olympische dag, gepresenteerd door Tom Egbers. Studioprogramma vanuit Hilversum, met uiteraard hoogtepunten, maar ook met verhalen over de (Nederlandse) deelnemers, reportages en interviews van de NOS-verslaggevers ter plekke en andere vaste rubrieken.
+
+----
+
+Thumb: 
+
+----
+
+Main-image: 
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: redacteur
+  function: Functie
+- 
+  name: NOS Studio Sport
+  function: Opdrachtgever
+- 
+  name: Augustus, 2012
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

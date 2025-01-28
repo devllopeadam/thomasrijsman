@@ -1,0 +1,81 @@
+Title: Perseverance
+
+----
+
+Subtitle: Vimeo Staff Pick
+
+----
+
+Text: Het Nederlandse rolstoelbasketbal team probeert zich te kwalificeren voor de Paralympics in London (2012). Perseverance (Nederlandse titel: ‘Doorzetten’) volgt meerdere internationals, die aan de hand van hun bijzondere levensverhalen op inspirerende wijze uitleggen wat deze spectaculaire sport voor hen betekent.
+
+----
+
+Size: small
+
+----
+
+Thumb: schermafbeelding-2016-07-07-om-13.35.06.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: https://vimeo.com/28231570
+  _fieldset: video
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: Thomas Rijsman
+  function: Regisseur
+- 
+  name: "'7 minuten"
+  function: Lengte
+- 
+  name: Tom Poederbach
+  function: 'Camera & Edit'
+- 
+  name: One Saturday Afternoon
+  function: Productie
+- 
+  name: "2011"
+  function: Datum
+- 
+  name: Official Vimeo Staff Pick
+  function: Award
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: >
+    https://vimeo.com/album/4208577/video/188136370
+  _fieldset: video
+- 
+  video: >
+    https://vimeo.com/album/4208577/video/188136474
+  _fieldset: video
+- 
+  video: >
+    https://vimeo.com/album/4208577/video/188136632
+  _fieldset: video
+- 
+  picture_1: img_1059_2_2.png
+  picture_2: img_1063_2_2.png
+  _fieldset: pictures

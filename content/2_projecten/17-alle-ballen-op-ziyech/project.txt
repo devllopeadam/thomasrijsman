@@ -1,0 +1,74 @@
+Title: Alle ballen op Ziyech
+
+----
+
+Subtitle: Presentatie talkshow
+
+----
+
+Text: De Nieuwe Maan presenteert: Alle ballen op Ziyech, een live talkshow op Facebook rond alle WK-wedstrijden van Marokko. Met Thomas Rijsman als presentator, Dries Boussatta en Willem van Hanegem als vaste side-kicks en Kees Jansma, Humberto Tan, Ali B en vele anderen als gasten van de show.
+
+----
+
+Size: small
+
+----
+
+Thumb: image-2018-07-11.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: https://vimeo.com/275649131
+  _fieldset: video
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Presentator talkshow
+  function: Functie
+- 
+  name: NTR
+  function: Zender
+- 
+  name: Alle ballen op Ziyech
+  function: Programma
+- 
+  name: De Nieuwe Maan
+  function: In samenwerking met
+- 
+  name: juni, 2018
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: image-2018-07-11.png
+  _fieldset: picture
+- 
+  picture: image-2018-06-18.png
+  _fieldset: picture
+- 
+  picture: image-2018-06-18-4.png
+  _fieldset: picture
+- 
+  picture: image-2018-06-18-3.png
+  _fieldset: picture

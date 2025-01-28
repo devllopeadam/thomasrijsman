@@ -1,0 +1,59 @@
+Title: Studio Rio
+
+----
+
+Subtitle: redacteur
+
+----
+
+Text: Werkend Nederland wordt tijdens de Olympische Spelen in Rio elke dag bijgepraat door Tom Egbers en sidekick Robin van Galen, bondscoach van de waterpolomannen.
+
+----
+
+Size: small
+
+----
+
+Thumb: 
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Redacteur
+  function: Functie
+- 
+  name: NOS Studio Sport
+  function: Opdrachtgever
+- 
+  name: NPO 1
+  function: Zender
+- 
+  name: Zomer, 2014
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture_1: img_6412.png
+  picture_2: img_6453.png
+  _fieldset: pictures

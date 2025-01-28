@@ -1,0 +1,61 @@
+Title: Handbal Sprookje
+
+----
+
+Subtitle: Eindredacteur
+
+----
+
+Text: Vierdelige documentaire serie over het nationale vrouwen handbalteam. Filmmaakster Lisa Bom  volgt Oranje op de voet tijdens hun voorbereiding op de Olympische Spelen in Rio de Janeiro (2016). In de hoofdrol: keepster Tess Wester, buitenbeentje Michelle Goos, prima donna Estavana Polman en Nycke Groot, één van de beste speelsters ter wereld. Eind 2015 eindigde Oranje verrassend tweede op het WK. In de voorbereiding op de Spelen kreeg Ziggo Sport exclusief toegang tot de ploeg van bondscoach Henk Groener. ‘Het Handbal Sprookje' geeft een unieke blik achter de schermen.
+
+----
+
+Size: small
+
+----
+
+Thumb: 
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: https://vimeo.com/174031274
+  _fieldset: video
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: Thomas Rijsman
+  function: Eindredacteur
+- 
+  name: Lisa Bom
+  function: Regisseur
+- 
+  name: Helden
+  function: Opdrachtgever
+- 
+  name: Ziggo
+  function: Zender
+- 
+  name: Juni 2016
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 

@@ -1,0 +1,64 @@
+Title: Alexander Isak de Willem II'r
+
+----
+
+Subtitle: Verhaal in Hard Gras
+
+----
+
+Text: Alexander Isak is misschien wel de beste speler die ooit speelde voor Willem II, de club waar ik al een leven lang fan van ben, in de jeugd speelde en één keer in het eerste elftal speelde. In ging in gesprek met Willem II'rs die Isak meemaakten in Tilburg. Het verhaal verscheen in Hard Gras nummer 151. Mijn vierde verhaal in dit literair voetbaltijdschrift.
+
+----
+
+Size: small
+
+----
+
+Thumb: 
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: >
+    https://www.youtube.com/watch?v=SpmxSR5H6SM
+  _fieldset: video
+
+----
+
+Category: author
+
+----
+
+Credits: 
+
+- 
+  name: Auteur
+  function: Functie
+- 
+  name: Hard Gras
+  function: Opdrachtgever
+- 
+  name: "151"
+  function: Nummer
+- 
+  name: 20 juli 2023
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture_1: screenshot-2023-07-27-at-10.57.11.png
+  picture_2: screenshot-2023-07-27-at-10.58.15.png
+  _fieldset: pictures

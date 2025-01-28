@@ -1,0 +1,97 @@
+Title: Creatie 70
+
+----
+
+Subtitle: Gasthoofdredacteur
+
+----
+
+Text: Speciale editie van het vakblad Creatie, in samenwerking met het Algemeen Dagblad. Verspreid in een extra grote oplage van meer dan 10.000 stuks, meegeseald met Adformatie. Deze editie staat in het teken van de liefde tussen sport en merken. Gasthoofdredacteuren van het nummer zijn Thomas Rijsman, Christiaan Ruesink (destijds hoofdredacteur AD, thans van Voetbal International) en Marco Jongeneel (eigenaar ontwerpbureau Vijf890, sportkenner, skateboardliefhebber en lid van de Rotterdamse Raad voor Kunst en Cultuur). Het nummer kwam mede tot stand door One Saturday Afternoon, productiemaatschappij voor creatieve sportcontent en ontwerpbureau Vijf890 uit Schiedam.
+
+----
+
+Thumb: schermafbeelding-2016-06-24-om-14.14.06.png
+
+----
+
+Main-image: 
+
+----
+
+Category: author
+
+----
+
+Credits: 
+
+- 
+  name: Nils Adriaans
+  function: Naar een idee van
+- 
+  name: >
+    Thomas Rijsman, Marco Jongeneel,
+    Christiaan Reusink
+  function: Gasthoofdredactie
+- 
+  name: Adfo Groep BV ism De Persgroep
+  function: Uitgever
+- 
+  name: >
+    Frank Heinen, Sjoerd Mossou, Jarl van
+    der Ploeg, Kamp Seedorf, Thijs
+    Zonneveld, Harold Zwarts, Erwin Hijman,
+    Pim Bijl, Lennart Bloemhof, Jaap
+    Bartelds
+  function: Met medewerking van
+- 
+  name: >
+    Carli Hermès, Paul D. Scott, Bill
+    Tanaka
+  function: Fotografie
+- 
+  name: Japser Kulker (Vijf890), Robin Stam
+  function: Vormgeving
+- 
+  name: Februari, 2016
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: cover_issue_70.png
+  _fieldset: picture
+- 
+  picture_1: >
+    schermafbeelding-2016-06-24-om-14.08.57.png
+  picture_2: >
+    schermafbeelding-2016-06-24-om-14.09.11.png
+  _fieldset: pictures
+- 
+  picture_1: >
+    schermafbeelding-2016-06-24-om-14.09.59.png
+  picture_2: >
+    schermafbeelding-2016-06-24-om-14.09.32.png
+  _fieldset: pictures
+- 
+  picture_1: >
+    schermafbeelding-2016-06-24-om-14.09.44.png
+  picture_2: >
+    schermafbeelding-2016-06-24-om-14.10.12.png
+  _fieldset: pictures
+- 
+  video: https://youtu.be/TriQC5MeKdM
+  _fieldset: video
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

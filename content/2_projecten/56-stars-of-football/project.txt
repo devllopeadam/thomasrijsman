@@ -1,0 +1,63 @@
+Title: Stars of Football
+
+----
+
+Subtitle: Copy writer
+
+----
+
+Text: Ergens in een verlaten loods, op een geheime plek in Nederland, komen de grootste voetbalhelden van Nederland samen voor een training op het allerhoogste niveau. De legendes van toen, de helden van vandaag en de talenten van morgen. Voor hun nieuwste verzamelactie geeft C1000 het fenomeen voetbalplaatjes een nieuwe twist. Alleen de beste voetbalsterren kwamen in aanmerking voor de supercool gefotografeerde en extra grote glossy stickerkaarten. Voor deze campagne sprak Thomas Rijsman met alle grote Nederlandse voetalsterren, van Dennis Bergkamp tot Johan Cruijff, van Ruud Gullit tot Dirk Kuyt, Wesley Sneijder en Giovanni van Bronckhorst.
+
+----
+
+Thumb: 
+
+----
+
+Main-image: 
+
+----
+
+Category: author
+
+----
+
+Credits: 
+
+- 
+  name: Copy-writer
+  function: Functie
+- 
+  name: Vijf890
+  function: Opdrachtgever
+- 
+  name: C1000
+  function: Klant
+- 
+  name: "2010"
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture_1: bergkampfoto.png
+  picture_2: bergkamptekst.png
+  _fieldset: pictures
+- 
+  picture_1: gullittekst.png
+  picture_2: gullitfoto.png
+  _fieldset: pictures
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

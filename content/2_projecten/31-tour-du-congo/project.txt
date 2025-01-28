@@ -1,0 +1,65 @@
+Title: Tour du Congo
+
+----
+
+Subtitle: Koers door het donkere hart van Afrika
+
+----
+
+Text: Florian Smits is een ervaren Nederlandse wielrenner die mee doet aan de Tour du Congo, negen etappes kris kras door het hart van Afrika. Precies een jaar voor de start van de koers verliest Smits op tragische wijze zijn vader. In de Tour du Congo wil Smits het pijnlijke verleden van hem afschudden, maar in plaats daarvan stuit Smits op zijn meest duistere zelfkant. Tour du Congo is een film van Thomas Rijsman en Maikel Schnerr.
+
+----
+
+Size: large
+
+----
+
+Thumb: congo-0555.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: 'Thomas Rijsman & Maikel Schnerr'
+  function: Een film van
+- 
+  name: Maikel Schnerr
+  function: Camera
+- 
+  name: nnb
+  function: Wordt verwacht
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: congo-0555.png
+  _fieldset: picture
+- 
+  picture: congo-0794.png
+  _fieldset: picture
+- 
+  picture_1: congo-1154.png
+  picture_2: congo-0753.png
+  _fieldset: pictures
+- 
+  picture: congo-0741.png
+  _fieldset: picture

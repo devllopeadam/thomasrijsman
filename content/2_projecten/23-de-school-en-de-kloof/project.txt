@@ -1,0 +1,76 @@
+Title: De school en de kloof
+
+----
+
+Subtitle: Aan tafel bij Pauw
+
+----
+
+Text: Niet iedereen krijgt gelijke kansen in het onderwijs. Dat blijkt nu ook uit onderzoek: kinderen van laagopgeleide ouders krijgen vaak een lager schooladvies, terwijl ze slim genoeg zijn voor een hoger niveau. Nordin en Thomas hadden dezelfde cito-score, maar toch moest Nordin 'iets met zijn handen gaan doen’. Nu, jaren later, zijn ze allebei sportjournalist. Zij vertellen bij Pauw hun verhaal. Maar zij zijn niet de enigen. Ook aan tafel: journalist Yasmina Aboutaleb, auteur van het coververhaal 'De school en de kloof' in Vrij Nederland (nr. 47, 26 november 2016), met daarin het verhaal over Thomas en Nordin. Een week eerder was het verhaal over Thomas en Nordin ook onderwerp van gesprek in De Wereld Draait Door, dankzij rapper Akwasi.
+
+----
+
+Size: small
+
+----
+
+Thumb: tereplein1.gif
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: https://vimeo.com/195465729
+  _fieldset: video
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: gast talkshow
+  function: Functie
+- 
+  name: NPO 1
+  function: Zender
+- 
+  name: Pauw
+  function: Programma
+- 
+  name: 30 november, 2016
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: >
+    schermafbeelding-2016-11-23-om-10.44.35.png
+  _fieldset: picture
+- 
+  picture_1: >
+    schermafbeelding-2016-12-02-om-18.12.16.png
+  picture_2: >
+    schermafbeelding-2016-12-04-om-11.53.01.png
+  _fieldset: pictures
+- 
+  picture: >
+    schermafbeelding-2016-12-02-om-18.12.05.png
+  _fieldset: picture
+- 
+  video: https://vimeo.com/195468981
+  _fieldset: video

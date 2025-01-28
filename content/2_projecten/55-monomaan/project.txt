@@ -1,0 +1,64 @@
+Title: Monomaan
+
+----
+
+Subtitle: Bezeten van basketbal
+
+----
+
+Text: Ferry Steenmetz was ooit één van de grootste basketbaltalenten van Nederland. Tot een grootse carrière kwam het echter niet. Als hoofdcoach van ABC (Amsterdam Basketbal Club) hoopt hij wel de top te halen. Een portret.
+
+----
+
+Size: small
+
+----
+
+Thumb: 
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: Thomas Rijsman
+  function: Regisseur
+- 
+  name: 'Thomas Rijsman & Nils Adriaans'
+  function: Interview
+- 
+  name: Tom Poederbach
+  function: 'Camera & Edit'
+- 
+  name: One Saturday Afternoon
+  function: Producent
+- 
+  name: Parool TV
+  function: Opdrachtgever
+- 
+  name: "2010"
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: https://vimeo.com/10248222
+  _fieldset: video

@@ -1,0 +1,64 @@
+Title: NuSport kiest
+
+----
+
+Subtitle: Columnist
+
+----
+
+Text: Wekelijkse column voor het tijdschrift NuSport, waarin telkens een nationale of internationale topvoetballer centraal staat. Eigenzinnige blik op de helden en anti-helden van het moderne voetbal.
+
+----
+
+Thumb: 
+
+----
+
+Main-image: 
+
+----
+
+Category: author
+
+----
+
+Credits: 
+
+- 
+  name: Columnist
+  function: Functie
+- 
+  name: NuSport
+  function: Tijdschrift
+- 
+  name: Sanoma
+  function: Uitgever
+- 
+  name: 2010-2012
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: ""
+  _fieldset: picture
+- 
+  picture_1: >
+    schermafbeelding-2016-06-24-om-21.21.56.png
+  picture_2: >
+    schermafbeelding-2016-06-24-om-21.22.17.png
+  _fieldset: pictures
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

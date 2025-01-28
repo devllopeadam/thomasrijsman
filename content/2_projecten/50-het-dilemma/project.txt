@@ -1,0 +1,64 @@
+Title: Het dilemma
+
+----
+
+Subtitle: Raymond Cuijpers gevangen tussen leven als voetballer én kunstenaar
+
+----
+
+Text: Begin jaren negentig lijkt Raymond Cuijpers op weg naar een carrière als profvoetballer bij Roda JC, tegelijkertijd studeert hij aan de kunstacademie in Maastricht. Hij pendelt voortdurend tussen de fysieke wereld van het voetbal en het losse leven van een jonge kunstenaar. Uiteindelijk komt het door een blessure niet tot een doorbraak als voetballer en legt hij zich in Amsterdam toe op de kunst. In ‘Het dilemma’ keert hij terug naar Limburg en blikt terug op zijn dubbelleven als voetballer en kunstenaar.
+
+----
+
+Size: small
+
+----
+
+Thumb: schermafbeelding-2016-07-07-om-13.38.07.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: Thomas Rijsman
+  function: Regisseur
+- 
+  name: 'Thomas Rijsman & Nils Adriaans'
+  function: Interview
+- 
+  name: Tom Poederbach
+  function: 'Camera & Edit'
+- 
+  name: One Saturday Afternoon
+  function: Producent
+- 
+  name: Parool TV
+  function: Opdrachtgever
+- 
+  name: "2010"
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: https://vimeo.com/4791290
+  _fieldset: video

@@ -1,0 +1,64 @@
+Title: 433Studios
+
+----
+
+Subtitle: Eindredacteur
+
+----
+
+Text: As one of the world’s biggest media powerhouses, 433 is focused on creating and sharing the best football-related content on all platforms around the globe. Amongst the huge fanbase are over 15,000 professional footballers who follow and interact with 433 every day, creating an engaged community between fans, clubs, brands, and federations.  As an editor in chief of the new branch 433Studios I focused on developing long form content, such as documentary's and series. We collaborated with some of the biggest football stars, brands and leagues around the world to create high quality storytelling video content to be seen in- and outside the 433 ecosystem. I am proud to have helped kickstart the 433Studios department at 433 and felt privileged to have worked with some very talented new generation video content makers.
+
+----
+
+Size: small
+
+----
+
+Thumb: screenshot-2023-02-08-at-10.42.14.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: Eindredacteur / Editor in Chief
+  function: Functie
+- 
+  name: "433"
+  function: Bedrijf
+- 
+  name: 433Studios
+  function: Afdeling
+- 
+  name: 01-08-2021 tot 28-02-2023
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: https://youtu.be/7jzg4W_MFss
+  _fieldset: video
+- 
+  video: https://youtu.be/5tpxXKTavlI
+  _fieldset: video
+- 
+  video: https://youtu.be/KSGIdGupQCo
+  _fieldset: video

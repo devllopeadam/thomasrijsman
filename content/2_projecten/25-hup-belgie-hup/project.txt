@@ -1,0 +1,62 @@
+Title: Hup België Hup
+
+----
+
+Subtitle: Aan tafel bij De Afspraak
+
+----
+
+Text: Gisteren keken 3 miljoen Nederlanders naar de wedstrijd België – Italië. Onze noorderburen zijn er niet bij op het EK Voetbal, dus hebben ze dan maar de Rode Duivels in de armen gesloten. Maar was dat wel een goed idee, na de wanprestatie van de Belgische voetbalploeg gisteren? De Nederlandse sportjournalist Thomas Rijsman volgt de Rode Duivels op de voet voor de NOS. Hij komt vertellen hoe Nederland reageert op onze voetballers.
+
+----
+
+Size: small
+
+----
+
+Thumb: schermafbeelding-2016-12-04-om-12.03.01.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: https://vimeo.com/173625080
+  _fieldset: video
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Gast talkshow
+  function: Functie
+- 
+  name: Canvas
+  function: Zender
+- 
+  name: De Afspraak
+  function: Programma
+- 
+  name: 14 juni, 2016
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: img_5024.png
+  _fieldset: picture

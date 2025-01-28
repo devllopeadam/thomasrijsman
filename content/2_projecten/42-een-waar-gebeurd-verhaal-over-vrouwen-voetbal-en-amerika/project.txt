@@ -1,0 +1,54 @@
+Title: Vrouwen, voetbal en Amerika
+
+----
+
+Subtitle: Autobiografisch verhaal in Hard Gras.
+
+----
+
+Text: Vrouwenvoetbal in Amerika is groots. Groter dan mannenvoetbal misschien wel. Dat ontdekte Thomas Rijsman toen hij in 1996 zelf in Amerika voetbalde aan de University of North Carolina, één van de meest prestigieuze sportuniversiteiten van Amerika.
+
+----
+
+Thumb: miahamm.png
+
+----
+
+Main-image: 
+
+----
+
+Category: author
+
+----
+
+Credits: 
+
+- 
+  name: Auteur
+  function: Functie
+- 
+  name: Hard Gras
+  function: Opdrachtgever
+- 
+  name: "68"
+  function: Nummer
+- 
+  name: November, 2009
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: 

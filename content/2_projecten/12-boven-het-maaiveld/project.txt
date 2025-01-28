@@ -1,0 +1,89 @@
+Title: Boven het maaiveld
+
+----
+
+Subtitle: Podcast Topsport Community
+
+----
+
+Text: Boven het maaiveld is een maandelijkse podcast met gasten uit de topsport, de wetenschap en het bedrijfsleven. In boven het maaiveld willen presentatoren Thomas Rijsman en Govert Viergever erachter komen wat de drijfveren zijn van de gast om zijn of haar kop boven het maaiveld te steken. Boven het maaiveld is mogelijk gemaakt door de Topsport Community, een onafhankelijke stichting – opgericht door meervoudig Olympisch kampioen Pieter van den Hoogenband, om kennisdeling tussen topsport e het bedrijfsleven te stimuleren.
+
+----
+
+Size: small
+
+----
+
+Thumb: 3d325ce1-5442-4ec4-9391-b23d7713b700.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: presentator
+  function: Functie
+- 
+  name: Govert Viergever
+  function: Co-presentator
+- 
+  name: Topsport Community
+  function: In opdracht van
+- 
+  name: twee maandelijks
+  function: Frequentie
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: >
+    https://www.youtube.com/watch?v=NUKt0V6iuXM
+  _fieldset: video
+- 
+  video: >
+    https://www.youtube.com/watch?v=Ic7c2u4xb9M
+  _fieldset: video
+- 
+  video: https://youtu.be/IkwKhdQ5XmE
+  _fieldset: video
+- 
+  video: https://youtu.be/sWAnh_QedS8
+  _fieldset: video
+- 
+  video: https://youtu.be/_u_INK6hEvA
+  _fieldset: video
+- 
+  video: https://youtu.be/eclnrJv8eXs
+  _fieldset: video
+- 
+  video: https://youtu.be/wDcixt0lWvc
+  _fieldset: video
+- 
+  video: https://youtu.be/M4o2D-HWIYo
+  _fieldset: video
+- 
+  video: >
+    https://www.youtube.com/watch?v=Ojpa5ElHubU
+  _fieldset: video
+- 
+  video: >
+    https://www.youtube.com/watch?v=jIIEEaze0_g
+  _fieldset: video

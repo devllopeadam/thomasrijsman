@@ -1,0 +1,58 @@
+Title: Betaald patriotisme in Amerikaanse sport
+
+----
+
+Subtitle: Aan tafel bij De Afspraak
+
+----
+
+Text: Het Amerikaanse basketbalseizoen voor universiteitsploegen begint vandaag en het staat helemaal in het teken van de oud-strijders. Thomas Rijsman studeerde zelf aan een Amerikaanse universiteit. In De Afspraak vertelt hij over het fenomeen ‘paid patriotism’ in de Amerikaanse sportwereld.
+
+----
+
+Thumb: schermafbeelding-2016-06-24-om-20.20.35.png
+
+----
+
+Main-image: 
+
+- 
+  video: https://vimeo.com/173626326
+  _fieldset: video
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Gast talkshow
+  function: Functie
+- 
+  name: Canvas
+  function: Zender
+- 
+  name: De Afspraak
+  function: Programma
+- 
+  name: 13 november, 2015
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+----
+
+Size: small
+
+----
+
+Thumb-vid: de_afspraak-173626326_converted.mp4

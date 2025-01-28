@@ -1,0 +1,69 @@
+Title: Voetbalnerds
+
+----
+
+Subtitle: Regisseur
+
+----
+
+Text: Op noemenswaardig niveau gespeeld hebben ze niet. Maar al jaren zijn ze online in gesprek over de staat van het voetbal. Omdat ze zich niet herkenden in traditionele voetbaljournalistiek. Omdat ze een nieuwe, analytische benadering wilden. Zonder aandacht voor randzaken, zonder het old boys network, zonder holle frasen. Om uiteindelijk de geuzennaam die de buitenwereld op ze plakten te omarmen: voetbalnerds. Waaronder Pieter Zwart, auteur van het boek De Val van Oranje.
+
+----
+
+Size: small
+
+----
+
+Thumb: schermafbeelding-2018-07-11-om-16.25.42.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+- 
+  video: 'https://www.youtube.com/watch?v=YD7d3cesO9A&t=1371s'
+  _fieldset: video
+
+----
+
+Category: documentary
+
+----
+
+Credits: 
+
+- 
+  name: Thomas Rijsman
+  function: Regie
+- 
+  name: 27min05sec
+  function: Lengte
+- 
+  name: Tereplein Media
+  function: Producent
+- 
+  name: 'vi.nl & fcafkicken.com'
+  function: Te zien op
+- 
+  name: 12 juli 2018
+  function: Datum
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  video: https://youtu.be/oYn6SINRQGA
+  _fieldset: video
+- 
+  video: >
+    https://www.youtube.com/watch?v=Ch6X6d_r3oc
+  _fieldset: video

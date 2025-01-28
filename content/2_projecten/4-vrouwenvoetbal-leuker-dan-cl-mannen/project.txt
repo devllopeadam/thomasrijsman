@@ -1,0 +1,62 @@
+Title: Vrouwenvoetbal 'leuker' dan Champions League mannen
+
+----
+
+Subtitle: Aan tafel bij Tijd voor Max
+
+----
+
+Text: Waarom ik (soms) liever naar vrouwenvoetbal dan naar Champions League van de mannen kijk? Dat legde ik uit aan tafel bij Tijd voor Max op Omroep MAX. Net als hoe ik in 1996 al op heel bijzondere wijze ontdekte dat vrouwenvoetbal de toekomst heeft.... En: wat zijn de kansen van Ajax en Feyenoord in Europa? Gaan de Oranje Leeuwinnen naar de Olympische Spelen? En moeten we naar de docu Lastpak, over Noa Lang? Veel voetbalpraat in een paar minuten op Omroep Max.
+
+----
+
+Size: small
+
+----
+
+Thumb: screenshot-2024-02-27-at-09.10.08.png
+
+----
+
+Thumb-vid: 
+
+----
+
+Main-image: 
+
+----
+
+Category: tv
+
+----
+
+Credits: 
+
+- 
+  name: Aan tafel bij Tijd voor Max
+  function: Functie
+- 
+  name: NPO 1
+  function: Zender
+- 
+  name: Omroep Max
+  function: Omroep
+- 
+  name: 22 februari 2024
+  function: Datum
+- 
+  name: >
+    https://www.maxvandaag.nl/videos-fragmenten/van-ajax-en-feyenoord-tot-oranje-leeuwinnen-thomas-rijsman-over-het-laatste-voetbalnieuws/
+  function: Kijklink
+
+----
+
+Credits-alt: 
+
+----
+
+Assets: 
+
+- 
+  picture: screenshot-2024-02-27-at-09.10.08.png
+  _fieldset: picture
