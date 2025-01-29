@@ -132,11 +132,14 @@
 
   <?php snippet('menu', array('color' => 'white')) ?>
 
-  <header class="header header--intro" xxx<?= 'data-bg="../../content/Rijsman.gif"' ?>>
+  <header class="header header--intro" xxx<?= ($site->picture()->isNotEmpty()) ? 'data-bg="' . $site->picture()->toFile()->url() . '"' : '' ?>>
 
     <div class="header-type">
       Sport &amp; Creatie
     </div>
 
-    <video src="../../content/site/tr_no_type.mp4" loop buffer autoplay muted playsinline></video>
+    <?php if ($site->picture_video()->isNotEmpty()): ?>
+      <video src="<?= $site->picture_video()->toFile()->url() ?>" loop buffer autoplay muted playsinline></video>
+    <?php endif; ?>
+
   </header>
