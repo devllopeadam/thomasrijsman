@@ -1,94 +1,96 @@
 title: Site
+pages: true
 
 sections:
   pages:
     type: pages
 
-fields:
-  title:
-    type: text
-    label: Titel
-
-  text:
-    type: textarea
-    label: Tekst
-
-  keywords:
-    type: tags
-    label: Keywords
-
-  line:
-    type: line
-
-  picture:
-    type: files
-    label: Hoofdbeeld
-    max: 1
-    layout: cards
-    template: image
-    help: Select an image file (optional)
-    width: 1/2
-
-  picture_video:
-    type: files
-    label: Hoofdbeeld video
-    help: Select a video file (optional)
-    multiple: false
-    query: site.files.filterBy("extension", "mp4")
-    width: 1/2
-
-  line2:
-    type: line
-
-  bio:
-    label: Bio
-    type: textarea
-
-  extern:
-    type: structure
-    label: Externe projecten
+  fields:
     fields:
-      head:
+      title:
         type: text
         label: Titel
+
       text:
         type: textarea
         label: Tekst
 
-  line3:
-    type: line
+      keywords:
+        type: tags
+        label: Keywords
 
-  email:
-    label: Email
-    type: email
-    width: 1/2
+      line:
+        type: line
 
-  facebook:
-    label: Facebook URL
-    type: url
-    width: 1/2
+      picture:
+        type: files
+        label: Hoofdbeeld
+        max: 1
+        layout: cards
+        template: image
+        help: Select an image file (optional)
+        width: 1/2
 
-  linkedin:
-    label: LinkedIn URL
-    type: url
-    width: 1/2
+      picture_video:
+        type: files
+        label: Hoofdbeeld video
+        help: Select a video file (optional)
+        multiple: false
+        query: site.files.filterBy("extension", "mp4")
+        width: 1/2
 
-  twitter:
-    label: Twitter URL
-    type: url
-    width: 1/2
+      line2:
+        type: line
 
-  vimeo:
-    label: Vimeo URL
-    type: url
-    width: 1/2
+      bio:
+        label: Bio
+        type: textarea
 
-  snapchat:
-    label: Instagram username
-    type: text
-    width: 1/2
+      extern:
+        type: structure
+        label: Externe projecten
+        fields:
+          head:
+            type: text
+            label: Titel
+          text:
+            type: textarea
+            label: Tekst
 
-  tumblr:
-    label: Tumblr URL
-    type: url
-    width: 1/2
+      line3:
+        type: line
+
+      email:
+        label: Email
+        type: email
+        width: 1/2
+
+      facebook:
+        label: Facebook URL
+        type: url
+        width: 1/2
+
+      linkedin:
+        label: LinkedIn URL
+        type: url
+        width: 1/2
+
+      twitter:
+        label: Twitter URL
+        type: url
+        width: 1/2
+
+      vimeo:
+        label: Vimeo URL
+        type: url
+        width: 1/2
+
+      snapchat:
+        label: Instagram username
+        type: text
+        width: 1/2
+
+      tumblr:
+        label: Tumblr URL
+        type: url
+        width: 1/2
